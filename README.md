@@ -4,7 +4,7 @@ Repositório dedicado ao estudo prático de Processamento Digital de Imagens e V
 
 Ao longo deste projeto são implementadas, analisadas e comparadas técnicas clássicas de Computer Vision utilizando OpenCV, scikit-image, NumPy e Matplotlib.
 
-Tecnologias
+Tecnologias: 
 Python
 OpenCV
 scikit-image
